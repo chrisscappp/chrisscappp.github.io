@@ -1,0 +1,30 @@
+.course__wrapper-container__items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.course__wrapper-container__items-number__text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    color: #686868;
+    font-size: 48px;
+}
+
+.course__wrapper-container__items-title {
+    margin-top: 2px;
+    margin-left: 45px;
+    color: #001AFF;
+    font-size: 26px;
+    text-decoration: none;
+    border-bottom: 1px #001AFF solid;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.course__wrapper-container__items-title:hover {
+    font-size: 27px;
+}

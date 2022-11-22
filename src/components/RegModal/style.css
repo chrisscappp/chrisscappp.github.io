@@ -1,0 +1,15 @@
+.input-container-reg-from {
+    margin-top: 30px;
+}
+
+.reg-form__reg-button-container {
+    margin-top: 30px;
+}
+
+.reg-form__reg-button {
+    font-size: 18px;
+}
+
+.reg-input-error__text {
+    color: red;
+}

@@ -1,0 +1,64 @@
+.input-enter-form {
+    width: 250px;
+    height: 35px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.enter-modal-footer {
+    display: flex;
+    justify-content: space-around;
+    width: 295px;
+    margin-top: 35px;
+    margin-left: 28px;
+}
+
+.enter__text {
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.enter__text:hover {
+    text-decoration: underline;
+}
+
+.reg-btn {
+    width: 153px;
+    height: 35px;
+    border-style: none;
+    background-color: #C1C1C1;
+    border-radius: 15px;
+    box-shadow: 0.1em 0.2em 5px rgba(122,122,122,0.5);
+    transition: 0.3s;
+}
+
+.reg-btn:hover {
+    box-shadow: 0.1em 0.3em 5px rgba(70, 69, 69, 0.5);
+}
+
+.reg_text {
+    color: #FFFFFF;
+}
+
+.input-error__text {
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+.password__label {
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+.password__btn {
+    color: #5a66d4;
+    position: absolute;
+    display: flex;
+    margin-left: 190px;
+    top: 6px;
+    cursor: pointer;
+}

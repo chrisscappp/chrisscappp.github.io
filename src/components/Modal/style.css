@@ -1,0 +1,12 @@
+.auth-form__wrapper {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.auth-form__container {
+    width: 350px;
+    height: 200px;
+    background-color: #2B78EB;
+    box-shadow: 0.1em 0.3em 5px rgba(122,122,122,0.5);
+}

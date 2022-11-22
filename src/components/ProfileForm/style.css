@@ -1,0 +1,38 @@
+.profile-name__wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-name__container {
+    font-size: 19px;
+    width: 250px;
+}
+
+.profile-name_container-text {
+    text-decoration: none;
+    border-bottom: 1px #FFFFFF solid;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+}
+
+.profile-modal-footer {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.profile-modal-btn {
+    width: 121px;
+    height: 35px;
+    border-style: none;
+    background-color: #e1d35a;
+    border-radius: 15px;
+    box-shadow: 0.1em 0.2em 5px rgba(122,122,122,0.5);
+    transition: 0.3s;
+}
+
+.profile-modal-btn:hover {
+    box-shadow: 0.1em 0.3em 5px rgba(70, 69, 69, 0.5);
+}

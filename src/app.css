@@ -1,0 +1,6 @@
+.App {
+    width: auto;
+    height: 980px;
+    background-image: url('./assets/images/6.png');
+    overflow:auto;
+}

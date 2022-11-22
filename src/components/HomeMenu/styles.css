@@ -1,0 +1,19 @@
+.loginAndSignUpBoxStyle__TextLogin {
+    transition: 1s;
+}
+
+.loginAndSignUpBoxStyle__TextLogin:hover {
+    text-decoration: underline;
+}
+
+.loginAndSignUpBoxStyle__btn_TextSignUp {
+    transition: 1s;
+}
+
+.loginAndSignUpBoxStyle__btn_TextSignUp:hover {
+    text-decoration: underline;
+}
+
+.inactive {
+    color: #ffffff;
+}
